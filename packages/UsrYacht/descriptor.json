@@ -3,7 +3,7 @@
     "UId": "baf1b2f0-fd0f-4c61-bbb5-cba670c2e67b",
     "Name": "UsrYacht",
     "Type": 1,
-    "ModifiedOnUtc": "\/Date(1787569938000)\/",
+    "ModifiedOnUtc": "\/Date(1787593649000)\/",
     "Maintainer": "Customer",
     "ProjectPath": "Files/UsrYacht.csproj",
     "Description": "#OriginalMaintainer:Customer",
@@ -13,6 +13,12 @@
         "PackageVersion": "7.8.0",
         "Name": "CrtCore",
         "Type": 1
+      },
+      {
+        "UId": "6b2bc647-56c9-4c8d-a135-5b0c64a1e938",
+        "Name": "UsrMain",
+        "Type": 1,
+        "InstallBehavior": 1
       }
     ]
   }
